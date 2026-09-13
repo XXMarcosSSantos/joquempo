@@ -20,7 +20,7 @@ UI Components:
 - Feedback Dinâmico: Atualização visual imediata das imagens e texto de resultado na tela.
 
   ## Screenshots
+ <img width="200" height="350" alt="Screenshot_20260913_135154" src="https://github.com/user-attachments/assets/2f4f43f0-1aba-4ab7-9d84-07edb9110f8b" />
 <img width="200" height="350" alt="Screenshot_20260913_135310" src="https://github.com/user-attachments/assets/caa99844-46b2-446e-928d-eac5590f6a17" />
 <img width="200" height="350" alt="Screenshot_20260913_135350" src="https://github.com/user-attachments/assets/fe494764-ee9c-4008-a3a0-ffc9ae5ee910" />
 <img width="200" height="350" alt="Screenshot_20260913_135236" src="https://github.com/user-attachments/assets/1d00f554-a206-439c-b413-9fa77d570f9e" />
-<img width="200" height="350" alt="Screenshot_20260913_135154" src="https://github.com/user-attachments/assets/2f4f43f0-1aba-4ab7-9d84-07edb9110f8b" />
